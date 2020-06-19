@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://funfunfunnofun.github.io/blog/posts/my-first-post/</loc>
+    <loc>https://funfunfunnofun.github.io/hugo-blog/posts/my-first-post/</loc>
     <lastmod>2020-06-17T00:23:47+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://funfunfunnofun.github.io/blog/posts/</loc>
+    <loc>https://funfunfunnofun.github.io/hugo-blog/posts/</loc>
     <lastmod>2020-06-17T00:23:47+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://funfunfunnofun.github.io/blog/</loc>
+    <loc>https://funfunfunnofun.github.io/hugo-blog/</loc>
     <lastmod>2020-06-17T00:23:47+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://funfunfunnofun.github.io/blog/categories/</loc>
+    <loc>https://funfunfunnofun.github.io/hugo-blog/categories/</loc>
   </url>
   
   <url>
-    <loc>https://funfunfunnofun.github.io/blog/tags/</loc>
+    <loc>https://funfunfunnofun.github.io/hugo-blog/tags/</loc>
   </url>
   
 </urlset>

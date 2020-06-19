@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech blog</title>
-    <link>https://funfunfunnofun.github.io/blog/</link>
+    <link>https://funfunfunnofun.github.io/hugo-blog/</link>
     <description>Recent content on Tech blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 00:23:47 +0900</lastBuildDate>
     
-	<atom:link href="https://funfunfunnofun.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://funfunfunnofun.github.io/hugo-blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://funfunfunnofun.github.io/blog/posts/my-first-post/</link>
+      <link>https://funfunfunnofun.github.io/hugo-blog/posts/my-first-post/</link>
       <pubDate>Wed, 17 Jun 2020 00:23:47 +0900</pubDate>
       
-      <guid>https://funfunfunnofun.github.io/blog/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://funfunfunnofun.github.io/hugo-blog/posts/my-first-post/</guid>
+      <description>hhhh</description>
     </item>
     
   </channel>
