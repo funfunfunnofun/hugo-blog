@@ -1,0 +1,4 @@
+baseURL = "https://funfunfunnofun.github.io/blog"
+languageCode = "en-us"
+title = "Tech blog"
+theme = "ananke"
