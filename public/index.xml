@@ -6,10 +6,21 @@
     <description>Recent content on Tech blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2020 00:23:47 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 00:23:47 +0900</lastBuildDate>
     
 	<atom:link href="https://funfunfunnofun.github.io/hugo-blog/public/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>競プロ：2問、テキスト：正規表現</title>
+      <link>https://funfunfunnofun.github.io/hugo-blog/public/posts/blog2/</link>
+      <pubDate>Tue, 07 Jul 2020 00:23:47 +0900</pubDate>
+      
+      <guid>https://funfunfunnofun.github.io/hugo-blog/public/posts/blog2/</guid>
+      <description>本日の実施事項  【競プロ】AIZU Online Judge：2問 【テキスト】独習python：正規表現 P.208~210 【その他】Qiita記事（Prologで論理パズル）を読む 【読み物】Webとプログラミングのきほんのきほん：P.~   【競プロ】AIZU Online Judge：2問 ITP1_7_B: How many ways? 問題文にしたがって素直に解いた。
+while True: n,x = map(int,input().split(&amp;quot; &amp;quot;)) if n == 0 and x == 0: break countn = 0 for i in range(1,n-1): for j in range(i+1,n): for k in range(j+1,n+1): if i+j+k == x: countn += 1 print(countn) ITP1_7_C: Spreadsheet あまりきれいに書けてないけど。 最初はリスト同士の足し算で解こうと思ったが、結局要素を足し合わせていくことにした。
+r,c = map(int,input().split(&amp;quot; &amp;quot;)) sumall = [0]*(c+1) for i in range(r): x = list(map(int,input().</description>
+    </item>
     
     <item>
       <title>My First Post</title>
